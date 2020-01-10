@@ -1,0 +1,2 @@
+include ':app', ':kache'
+rootProject.name='KacheSample'
